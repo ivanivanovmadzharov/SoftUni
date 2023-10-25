@@ -1,1 +1,1 @@
-# SoftUni
+## Here are all the codes I made while learning in [SoftUni](https://softuni.bg/?utm_source=GO&utm_medium=cpc&utm_campaign=S-SU-OurBrand-ProgrammingBasics&utm_term=softuni&utm_content=SoftUni&gad=1&gclid=CjwKCAjw-eKpBhAbEiwAqFL0mhYmgtcvzf-yVXamjFs5gFmYPkX7vO_rD305o-h62Kwp586lwLq_HRoCwIsQAvD_BwE).
